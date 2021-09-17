@@ -1,0 +1,561 @@
+body{
+    width: 100%;
+    background: ;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: auto;
+    background: black;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.container{
+    width: 85%;
+    height: 90px;
+    margin: auto;
+   
+    
+    
+}
+
+.st{
+    width: 15%;
+    color: white;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 20px;
+    font-weight: 600;
+    float: left;
+    text-align: left;
+    margin-top: 32px;
+    
+}
+.nd{
+    width: 70%;
+    color: white;
+    font-family: 'Courgette', cursive;
+    font-size: 18px;
+    float: left;
+    text-align: center;
+    margin-top: 32px;
+}
+.icons{
+    width: 15%;
+    height: ;auto;
+    overflow: hidden;
+}
+.icons ul{
+        width: 100%;
+    margin: auto
+  
+}
+.icons ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 10px;
+}
+.icons ul li:last-child{
+    margin-right: 0;
+}
+.icons ul li a{
+    background-image: url('../assset/icon.6.png');
+    background-repeat: no-repeat;
+    background-position: -17px -16px ;
+    width: 45px;
+    height:45px;
+    display: inline-block;
+    border-radius: 50px;
+    margin-top: 15px;
+    
+}
+.icons ul li:nth-child(2) a{
+    background-position:-90px -16px;;
+}
+.icons ul li:nth-child(3) a{
+    background-position:-163px -16px;
+}
+.first{
+    margin: 0;
+    padding: 0;
+}
+.first img{
+    width: 100%;
+}
+.second{
+    width: 100%;
+    margin: 0;
+    padding: 0; 
+    overflow: hidden;
+}
+.A{
+    width:50%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+.B{
+    width: 50%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+.second img{
+    margin-top: 80px;
+}
+.second .A img{
+    width: 93%;
+    height: 430px;
+    margin-left: 80px;
+}
+.second .A .one{
+    margin-top: 30px;
+}
+.third{
+    width: 100%;
+    height: auto;
+}
+.third .a{
+    width:90%;
+    height: 230px;
+    background:#E1EFEF ;
+    margin:auto;
+    margin-top: 60px;
+    
+}
+.third .a h2{
+    font-size: 50px;
+    text-align: center;
+    padding: 90px;
+    
+}
+.fourth{
+    width: 93%;
+    margin-top: 75px;
+    margin-left: 6%;
+    padding: 0;
+    overflow: hidden;
+}
+.fourth .A,
+.fourth .B,
+.fourth .C,
+.fourth .D{
+    width: 25%;
+    margin: auto;
+    float: left;
+}
+
+.fourth .B img,
+.fourth .D img{
+    width: 78%;
+    height: 330px;
+}
+.fourth .A .me,
+.fourth .C .we{
+    width: 100%;
+    height: auto;
+    font-size: 17px;
+    margin: auto;
+    margin-top: 90px;
+   ;
+       
+    font-family: 'Share', cursive;
+
+    font-family: 'Sofia', cursive;
+}
+.fifth{
+    margin:0;
+    padding: 0;
+    margin-top: 100px;
+    overflow: hidden;
+   
+}
+.fifth .A{
+    width: 100%;
+    margin: auto;
+    font-size: 40px;
+    font-weight: bold;
+}
+.fifth .B{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+.fifth .B .one,
+.fifth .B .two,
+.fifth .B .three{
+    width: 33.33%;
+    height: auto;
+    float: left;
+    margin: auto;
+}
+.fifth .B .one .ami,
+.fifth .B .two .tumi,
+.fifth .B .three .amra{
+    width: 80%;
+    height: auto;
+    font-size: 13px;
+    margin: auto;
+   
+}
+.fifth .B .one .ami spam,
+.fifth .B .two .tumi spam,
+.fifth .B .three .amra spam{
+    width: 80%;
+    height: auto;
+    font-size: 20px;
+    margin: auto;
+   
+}
+.fifth .B .img img{
+    width: 125px;
+}
+.box{
+    width: 70%;
+    margin: auto;
+}
+.six{
+    margin:0;
+    padding: 0;
+
+}
+.six section{
+    width:  100%;
+    height: 400px;
+    margin: auto;
+    background: url(../assset/spa78.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;;
+    overflow: hidden;
+    margin-top: 80px;
+    margin-bottom: 100px;
+   
+}
+.six section .overly{
+    top:0;
+    left:0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color:RGB(203, 209, 207,.7);
+   
+}
+.six section .overly .one{
+    width: 85%;
+    margin: auto;
+    height: auto;
+    font-size: 48px;
+    overflow: hidden;
+    margin-top: 30px;
+    
+   
+}
+.six section .overly .one p{
+    padding: 0;
+    margin: 0;
+    font-family: 'Share', cursive;
+
+    font-family: 'Sofia', cursive;
+    font-size: 20px;
+    
+}
+.six section .overly .one h2{
+    width:55%;
+    height: 100px;
+    font-size: 60px;
+    font-variant-caps: all-petite-caps;
+    font-weight: bold;
+}
+.six section .overly .one input{
+    width: 180px;
+    height: 40px;
+    background: none;
+    border: 3px solid #FF2B09 ;
+    font-size: 20px;
+    
+}
+.six section .overly .one input:hover{
+    background:  #FF2B09;
+}
+.seventh{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.seventh .one{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: auto;
+    margin-left: 35px;
+
+    
+}
+.seventh .one .A{
+    width: 50%;
+    height: auto;
+    float: left;
+    margin: auto;
+    margin-bottom: 100px;
+        }
+.seventh .one .A img{
+    width: 84%;
+    height: 630px;
+    margin-right: 0;
+}
+        
+.seventh .two{
+      width: 50%;
+      height: auto;
+     font-size: 20px;
+    float: left;
+    width: 40%;
+    height: auto;
+    margin-left: 0;
+    margin-top: 55px;
+        }
+
+.seventh .two p{
+    margin-left: 0;
+    margin-top: 140px;
+    font-weight: bold;
+    font-size: 50px
+}  
+.seventh .two .input{
+    margin-left: 0;
+    margin-top: 170px;
+}
+.seventh .two .input a{
+    color: #858585;
+    font-weight: bold;
+    text-decoration-color: red;
+    font-size: 25px;
+    font-family: monospace;
+}
+.seventh .two .input a:hover{
+    color: red;
+}
+.eight{
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.eight .one{
+    width: 100%;
+    height: auto;
+}
+.eight .one h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: bold;
+    border: 4px yellow dashed;
+    border-bottom: 0px;
+    border-top-color: blue;
+    width: 30%;
+    margin: auto;
+    
+}
+.nine{
+    margin: o;
+    padding: 0;
+}
+.nine .one{
+    width: 100%;
+    height: auto;
+    overflow: 0;
+}
+.nine .one .A{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 80PX;
+}
+.nine .one .A img{
+    width: 20%;
+    margin-left: 2%;
+    
+}
+.nine .one .A img:nth-child(1){
+    margin-left: 0;
+}
+.refreshing{
+    margin: 0;
+    padding: 0;
+}
+.refreshing .spa{
+    width: 100%;
+    height: 280px;
+    background: #E1EFEF;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.refreshing .spa .one{
+    margin-top: 6%;
+}
+.refreshing .spa .one h4{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+.refreshing .spa .one p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 33px;
+    margin:15px;
+    padding: 0;
+}
+.refreshing .spa .one i{
+    font-size: 22px;
+    font-weight: 200;
+}
+.PN{
+    margin: 0;
+    padding: 0;
+}
+    
+.PN .contuct{
+    width: 100%;
+    height: 450px;
+    margin: 0;
+    padding: 0;
+}
+.PN .contuct .us{
+    width: 40%;
+    height:auto;
+    float: left  ;
+    margin-top: 5% ;
+    text-align: center;
+}
+.contuct .us h2{
+    font-family: fantasy;
+    font-size:50px;
+    font-weight: 300;
+    height: 35px
+}
+.contuct .us .ift a{
+    text-decoration: none;
+    margin-left: 10px;
+    color:black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.contuct .us .ift a:nth-child(1) {
+    margin-left: 0;
+}
+.contuct .us .ift a:hover{
+    color: red;
+}
+.massege{
+    width: 50%;
+    height:auto;
+    float: left;
+    margin: 0;
+    padding: 0;
+    
+}
+form{
+    width: 100%;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.massege.in {
+    width: 100%;
+    border-bottom: 0px;
+     float: left;
+    
+}
+form .in input{
+    width: 300px;
+    height: 20px;
+    float: left;
+    padding: 20px
+}
+form .grid-item.ta{
+    width: 100%;
+    height: auto;
+}
+form .grid-item.ta input{
+    width: 610px;
+    height: 120px;
+    max-height: inherit;
+    padding: 38px;
+}
+.massege form .submit input{
+    margin-top: 30px;
+    font-size: 21px;
+    padding: 15px;
+    border: 2px solid red;
+    background: white;
+}
+.massege form .submit input:hover{
+    background-color:red;
+}
+.map{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+}
+.map iframe{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 90px;
+}
+footer{
+    margin:0;
+    padding:0;
+}
+.footer .part{
+    width: 100%;
+    height: auto;
+    background-color: beige;
+    overflow: hidden;
+}
+.footer .part .one,
+.footer .part .two,
+.footer .part .three,
+.footer .part .four{
+    width: 25%;
+    height: auto;
+     float: left;
+    margin-top: 30px;
+}
+.footer .part a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    font-size: 20px;
+    padding: 6px;
+}
+.footer .part a:hover{
+    color:red;
+}
+.footer .part .four{
+    margin-top: 100px;
+}
+
+.footer .part .one{
+    text-align: center;
+}
+
+
+
+
+
+
+
