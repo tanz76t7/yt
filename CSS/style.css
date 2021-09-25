@@ -1,0 +1,497 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 60px;;
+    background-color: cadetblue; 
+    position: relative;
+}
+.logo-area{
+    width: 50%;
+    height: auto;
+    float: left;  
+}
+.logo-area img{
+    width: 140px;
+    height: auto;
+    margin-left: 40px;
+    margin-top: 5px;
+    
+}
+.tablet{
+     width: 50%;
+    height: auto;
+    float: left;
+    margin-top: 10px
+}
+.tablet img{
+    width: 40px;
+    height: auto;
+    ;
+    
+}
+.first{
+    width: 100%;
+    height: 600px;
+    background-image: url(../asset/ttt3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.first .one{
+    width: 99%;
+    height: 100px;
+    border: 2px #CA7753 solid;
+    border-right: none;
+    border-left: none;
+
+}
+.first .one input{
+    background: none;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    color: blue;
+    display: block;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 25px;
+    padding: 3px;
+    
+}
+.box1{
+    width: 100%;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 240px
+}
+.first .two{
+    width: 40%;
+    height: 70px;
+    background-color:;
+    display: block;
+    background-attachment: fixed;
+    opacity: 0.7;
+    position: absolute; 
+    
+}
+.first .two h2{
+    margin-left: 10px;
+    position: absolute;
+    font-family: cursive;
+    background-color: beige;
+    padding: 20px;
+    
+}
+.first .three{
+    width: 40%;
+    height: 70px;
+    background-color: ;
+    display: block;
+    background-attachment: fixed;
+    opacity: 0.9;
+    position: absolute; 
+    margin-top: 70px;
+}
+.first .three h3{
+    padding: 20px;
+    margin-left:100px;
+    position: absolute;
+    font-family: cursive;
+    background-color: yellow;
+    width: 200px;
+    text-align: center
+    
+}
+.second{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 600px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+ } 
+.second .one{
+    width: 50%;
+    height:  00px;
+    margin-left: 50px;
+     
+}
+.second .one .a{
+    width: 500px;
+    height: 560px;
+    background: orange;
+    position: relative;
+    top: 40%;
+    margin-left: 60%;
+   
+}
+.second .me{
+    width: 100%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+}
+.secomd .me .o{
+    width: 20%;
+    height: auto;
+    float: left
+}
+.second .me .p{
+    width: 20%;
+    height: auto;
+    float: left
+}
+.second .two{
+    width: 340px;
+    height: 290px;
+    background: white;
+    position: relative;
+    margin-left: 25%;
+    border: 5px solid black;
+    margin-top:10%;
+    float: left;
+   
+}
+.second .three{
+    width: 400px;
+    height: 490px;
+    background: white;
+    position: relative;
+    left: 3%;
+    float: left;
+    margin-top: 11%;
+}
+.second .three img{
+    width: 100%;
+    height: 100%;
+}
+.second .two .c{
+    text-align: center;
+    margin: auto;
+    margin-top:15%;
+    font-family: cursive;
+    float: left;
+}
+.third{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 300px;
+   
+}
+.third .one{
+    width: 80%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+     
+}
+
+.third .one .a,
+.third .one .b,
+.third .one .c,
+.third .one .d{
+    width: 20%;
+    height: auto;
+    float: left;
+    margin-left: 1%;
+    border: 5px black solid;
+    text-align: center;
+    
+}
+.third .one .a{
+     margin-left:0;
+}
+.third .one .a img,
+.third .one .c img{
+    width: 100%;
+    height: 280px;
+    
+}
+.third .one .a,
+.third .one .c{
+    width: 26%;
+    border: none;
+}
+.third .one .b,
+.third .one .d{
+    width: 20%;
+    height: 270px;
+}
+.third .one .b spam,
+.third .one .d spam{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+.fourth{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    background-image: url(../asset/camoch.jpeg);
+    overflow: hidden;
+    background-size: 100%;  
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+.fourth .two{
+     width: 40%;
+    height: 300px;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 45%;
+    font-size: 20px
+}
+.fifth{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 580px;
+    background-color: dimgray;
+    position: relative;
+}
+.fifth .ty{
+    width: 90%;
+    height: 525px;
+    overflow: hidden;
+}
+.fifth .one{
+    width: 70%;
+    height: 240px;
+    background-color: orange;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.fifth .two img{
+    width: 450px;
+    height: 480px;
+    float: left;
+    position: relative;
+    margin-top:5%;
+    margin-left: 20%;
+    
+}
+.fifth .three img{
+    width: 450px;
+    height: 480px;
+    float: left;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 5%
+}
+.six{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto
+    
+}
+.six form{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    font-size: 25px
+}
+.six form input{
+    display: block;
+    margin-left: 40%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 200px;
+    height: 56px;
+    margin-top: 30px;
+}
+.seven{
+    margin: 0;
+    padding:0;
+    width: 100%;;
+    height: 320px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.seven .one{
+    margin: auto;
+    width: 80%;
+    height: 320px;
+}
+.seven .one .a,
+.seven .one .b,
+.seven .one .c{
+    width: 33%;
+    height: 320px;
+    float: left;
+    margin-left: 3%;
+    
+}
+.seven .one .a {
+    margin-left: 0;;
+}
+.seven .one .a img{
+    width: 100%;
+    height: 330px;
+}
+.seven .one .b{
+    width: 25%;
+    height: 320px;
+    border: 5px solid black;
+}
+.seven .one .c img{
+    width: 100%;
+    height: 330px;
+}
+.seven .one .b .f {
+    width: 100%;
+    height: 289px;
+    text-align: center;
+    font-size: 18px;
+    font-family: serif;
+    font-weight: 400;
+    
+}
+.eight{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    background-image: url(../asset/bbbtt.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 50px;
+    position: relative;
+    opacity: 0.8;
+    overflow: hidden;
+    
+}
+.eight .t{
+    width: 100%;
+    height: 680px;
+    overflow: hidden;
+}
+.eight .t .one {
+    width:30%;
+    height: 160px;
+    margin: auto;
+    margin-top: 400px;
+}
+.eight .icons{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.eight .icons ul{
+    width: 100%;
+    margin: auto
+  
+}
+.eight .icons ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 10px;
+}
+.eight .icons ul li:last-child{
+    margin-right: 0;
+}
+.eight .icons ul li a{
+    background-image: url('../asset/icon.6.png');
+    background-repeat: no-repeat;
+    background-position: -17px -16px ;
+    width: 45px;
+    height:45px;
+    display: inline-block;
+    border-radius: 50px;
+    margin-top: 15px;
+    
+}
+.eight .icons ul li:nth-child(2) a{
+    background-position:-90px -16px;;
+}
+.eight .icons ul li:nth-child(3) a{
+    background-position:-163px -16px;
+}
+.eight h2{
+    color:white;
+    font-family: cursive
+}
+.nine{
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+     background-color: #333333;
+}   
+.nine .a{
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    
+}
+.nine .a .one{
+    width: 35%;
+     height: 100px;
+    margin: auto;
+     color: white;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px
+    
+}
+ .nine .a  .two{
+    width: 35%;
+     height: 30px;
+    margin: auto;
+     color: white;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 100px;
+     color: whitesmoke;
+    
+}
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
